@@ -116,6 +116,7 @@ Hacktoberfest is open to everyone in our global community! Four quality pull req
 - [M Yusril](https://github.com/shansekai)
 - [Ikbal Hanafi](https://github.com/ikbal-hanafi)
 - [Naka Rapstar](https://github.com/Nakasz)
+- [Eky](https://github.com/lenfaire)
 
 ## How to contribute
 
